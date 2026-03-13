@@ -1,5 +1,5 @@
 {
-  "name": "play-reviews-api",
+  "name": "playstore-reviews-api",
   "version": "1.0.0",
   "dependencies": {
     "google-play-scraper": "^9.1.0"
